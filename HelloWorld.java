@@ -12,6 +12,7 @@ class HelloWorld
         System.out.println("Test Line 1"); 
         System.out.println("Test Line 2"); 
         System.out.println("Test Line 3");
+	System.out.println("another test");
    	System.out.println("Task 3 - Coursework"); 
 	System.out.println("Another line");
     } 
